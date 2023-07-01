@@ -1,0 +1,11 @@
+remote_theme: meebuhs/arco
+
+title: blog
+tagline: this is a blog
+description: this is a blog
+image: /assets/images/headshot.jpg
+url: https://github.com/sampada-nepal/blog
+github_url: https://github.com/sampada-nepal
+resume: false
+author: Sampada Nepal
+lang: en-US
