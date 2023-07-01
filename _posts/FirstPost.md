@@ -8,7 +8,7 @@ images:
   cover: /assets/images/arco/cover.png
   top: /assets/images/arco/demo.gif
 mathjax: true
-tags: [entries]
+tags: [jekyll, theme, sass, portfolio]
 ---
 
 Hey guys welcome to the blog !!!! 
