@@ -1,11 +1,15 @@
-remote_theme: meebuhs/arco
+# Site settings
+title: Alex Sharpe
+tagline: ~
+description: Software Engineer
+image: /assets/images/site-image.png
+url: https://meebuhs.github.io
+github_url: https://github.com/meebuhs
+author: Alex Sharpe
+lang: en-AU
+logo: /favicon.png
 
-title: blog
-tagline: this is a blog
-description: this is a blog
-image: /assets/images/headshot.jpg
-url: https://github.com/sampada-nepal/blog
-github_url: https://github.com/sampada-nepal
-resume: false
-author: Sampada Nepal
-lang: en-US
+# Build settings
+remote_theme: meebuhs/arco
+plugins:
+  - jekyll-sitemap

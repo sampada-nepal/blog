@@ -1,4 +1,4 @@
-# Comment the jekyll gem
+source "https://rubygems.org"
+
 # gem "jekyll", "~> 4.1.0"
-# Uncomment github-pages
 gem "github-pages", group: :jekyll_plugins
